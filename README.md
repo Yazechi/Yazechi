@@ -7,20 +7,21 @@ Welcome to my GitHub! I'm a beginner coder passionate about game development and
 🤝 Goal: Contribute to open-source projects and learn from others
 📧 Contact: pakpahank5@gmail.com
 
-🛠️ Skills I'm Learning
+## 🛠️ Skills Im Learning
 
-C# Syntax and Basics
-Object-Oriented Programming
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+- ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 🕹️ Game Development Fundamentals
 📁 Scripting Game Mechanics
 
+## 📊 My GitHub Stats
 
-📊 My GitHub Stats
+- ![Yazechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yazechi&show_icons=true&theme=light)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazechi&layout=compact&theme=light)
 
-🖥️ My Projects
-
-CSharp-GameDevelopment-Learning: My learning hub for C# and Unity, with small games and experiments.
-
+## 🖥️ My Projects
+- [CSharp-GameDevelopment-Learning](https://github.com/Yazechi/CSharp-GameDevelopment-Learning): My journey learning C#.
+  
 🌱 What's Next?
 
 📚 Studying more about game mechanics and coding best practices
