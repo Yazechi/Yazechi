@@ -1,34 +1,64 @@
-## 👋 Hello, I'm Yazechi (Kevin Kristian Pakpahan)
-Welcome to my GitHub! I'm a beginner coder passionate about game development and learning to code with C#. I'm currently exploring CSharp-GameDevelopment-Learning, where I'm building small game projects to grow my skills. Excited to learn, create, and connect with the coding community!
-🌟 About Me
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>Hello, My name is Kevin Kristian Pakpahan </h1>
+  <p>
+    A college student whose passion is about technology and development. 
+    <br/>
+    Right now, i'm learning the basic essence of web development with HTML, CSS, and Javascript.
+  </p>
+</div>
 
-## 🎓 Learning: C# and Unity basics for game development
-🕹️ Working on: Simple game prototypes to practice coding
-🤝 Goal: Contribute to open-source projects and learn from others
-📧 Contact: pakpahank5@gmail.com
+<div id="socials" align="center">
+ <a href="https://www.facebook.com/Kevin Pakpahan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:pakpahank5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-## 🛠️ Skills Im Learning
+### About Me
 
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-- ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-- 🕹️ Game Development Fundamentals
-- 📁 Scripting Game Mechanics
+- Is a student at **Medan State Polytechnic**, studying **Computer Engineering**.
+- Is currently learning about **Front-End Web Development** while also learning **Back-End Programming**
+- I like to discuss about new ideas, UI/UX Design, and future technology.
+- Contact me by email **Pakpahank5@gmail.com**.
 
-## 📊 My GitHub Stats
+---
 
-- ![Yazechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yazechi&show_icons=true&theme=light)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazechi&layout=compact&theme=light)
+### Tools and Technology that i'm using
 
-## 🖥️ My Projects
-- [CSharp-GameDevelopment-Learning](https://github.com/Yazechi/CSharp-GameDevelopment-Learning): My journey learning C#.
-  
-## 🌱 What's Next?
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+  </a>
+</p>
 
-- 📚 Studying more about game mechanics and coding best practices
-- 🚀 Planning to join a beginner-friendly open-source project
-- 💬 Open to tips and feedback from other coders!
+---
 
-## 🎮 Fun Fact
-When I'm not coding, I love playing video games and dreaming up my own game ideas!
+### My star Project
 
-“Every line of code is a step toward building something awesome!”
+<p align="center">
+  <a href="https://github.com/Yazechi/web-pribadi">
+    <img 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Yazechi&repo=web-pribadi&theme=tokyonight&show_owner=true" 
+    />
+  </a>
+</p>
+
+---
+
+### My GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Yazechi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    alt="GitHub Statistics"
+  />
+  <br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazechi&layout=compact&langs_count=8&theme=tokyonight" 
+    alt="Top Programming Language"
+  />
+</p>
