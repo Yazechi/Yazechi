@@ -1,54 +1,56 @@
 <div align="center">
 
-# Kevin Kristian Pakpahan
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
 
-**Computer Engineering Student | Aspiring Web Developer**
+  # Kevin Kristian Pakpahan
 
-Mahasiswa Teknik Komputer di **Politeknik Negeri Medan** dengan fokus pada pengembangan teknologi web. Saat ini mendalami fondasi Front-End Development dan memperluas keahlian menuju Back-End Programming serta UI/UX Design.
+  **Computer Engineering Student | Aspiring Web Developer**
 
-[Email](mailto:Pakpahank5@gmail.com) • [Facebook](https://www.facebook.com/Kevin Pakpahan)
+  <p>
+    Mahasiswa Teknik Komputer di <b>Politeknik Negeri Medan</b>. <br>
+    Fokus mendalami <b>Front-End Web Development</b> (HTML, CSS, JS) dan mengeksplorasi Back-End Programming.
+  </p>
 
----
+  <div>
+    <a href="mailto:pakpahank5@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.facebook.com/Kevin Pakpahan">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+  </div>
 
 </div>
 
-### About
+<hr/>
 
-Saya adalah penggiat teknologi yang berdedikasi pada penciptaan solusi web yang efisien dan estetis. Dengan latar belakang pendidikan teknik komputer, saya memadukan pemahaman perangkat keras dan perangkat lunak untuk membangun aplikasi yang optimal.
+### 🛠️ Languages & Tools
 
-* **Current Focus:** Memperdalam fundamental HTML, CSS, dan JavaScript serta eksplorasi framework modern.
-* **Interests:** Web Architecture, User Interface Design, dan Future Tech Trends.
-
-### Technical Skills
-
-**Languages & Tools**
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="My Skills" />
 </div>
 
-### GitHub Analytics
+<br/>
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <br/>
-  <a href="https://github.com/Yazechi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yazechi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Kevin's GitHub Stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/Yazechi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazechi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazechi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yazechi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
 </div>
 
-### Featured Project
+<br/>
 
-| Project | Description |
-| :--- | :--- |
-| **[Web Pribadi](https://github.com/Yazechi/web-pribadi)** | Repository pengembangan website portofolio pribadi. Proyek ini mendemonstrasikan kemampuan dasar dalam merancang struktur web dan styling. |
+### 🌟 Featured Project
+
+<div align="center">
+  <a href="https://github.com/Yazechi/web-pribadi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazechi&repo=web-pribadi&theme=tokyonight&hide_border=true" alt="ReadMe Card" />
+  </a>
+</div>
 
 <br/>
 
 <div align="center">
-  <small>Profile updated by Kevin Kristian Pakpahan</small>
+  <sub>Let's discuss UI/UX, Web Tech, and New Ideas!</sub>
 </div>
