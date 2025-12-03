@@ -1,64 +1,54 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hello, My name is Kevin Kristian Pakpahan </h1>
-  <p>
-    A college student whose passion is about technology and development. 
-    <br/>
-    Right now, i'm learning the basic essence of web development with HTML, CSS, and Javascript.
-  </p>
+<div align="center">
+
+# Kevin Kristian Pakpahan
+
+**Computer Engineering Student | Aspiring Web Developer**
+
+Mahasiswa Teknik Komputer di **Politeknik Negeri Medan** dengan fokus pada pengembangan teknologi web. Saat ini mendalami fondasi Front-End Development dan memperluas keahlian menuju Back-End Programming serta UI/UX Design.
+
+[Email](mailto:Pakpahank5@gmail.com) • [Facebook](https://www.facebook.com/Kevin Pakpahan)
+
+---
+
 </div>
 
-<div id="socials" align="center">
- <a href="https://www.facebook.com/Kevin Pakpahan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:pakpahank5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+### About
+
+Saya adalah penggiat teknologi yang berdedikasi pada penciptaan solusi web yang efisien dan estetis. Dengan latar belakang pendidikan teknik komputer, saya memadukan pemahaman perangkat keras dan perangkat lunak untuk membangun aplikasi yang optimal.
+
+* **Current Focus:** Memperdalam fundamental HTML, CSS, dan JavaScript serta eksplorasi framework modern.
+* **Interests:** Web Architecture, User Interface Design, dan Future Tech Trends.
+
+### Technical Skills
+
+**Languages & Tools**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="My Skills" />
 </div>
 
-### About Me
+### GitHub Analytics
 
-- Is a student at **Medan State Polytechnic**, studying **Computer Engineering**.
-- Is currently learning about **Front-End Web Development** while also learning **Back-End Programming**
-- I like to discuss about new ideas, UI/UX Design, and future technology.
-- Contact me by email **Pakpahank5@gmail.com**.
-
----
-
-### Tools and Technology that i'm using
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
-  </a>
-</p>
-
----
-
-### My star Project
-
-<p align="center">
-  <a href="https://github.com/Yazechi/web-pribadi">
-    <img 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Yazechi&repo=web-pribadi&theme=tokyonight&show_owner=true" 
-    />
-  </a>
-</p>
-
----
-
-### My GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yazechi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="GitHub Statistics"
-  />
+<div align="center">
   <br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazechi&layout=compact&langs_count=8&theme=tokyonight" 
-    alt="Top Programming Language"
-  />
-</p>
+  <a href="https://github.com/Yazechi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yazechi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Kevin's GitHub Stats" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/Yazechi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazechi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
+</div>
+
+### Featured Project
+
+| Project | Description |
+| :--- | :--- |
+| **[Web Pribadi](https://github.com/Yazechi/web-pribadi)** | Repository pengembangan website portofolio pribadi. Proyek ini mendemonstrasikan kemampuan dasar dalam merancang struktur web dan styling. |
+
+<br/>
+
+<div align="center">
+  <small>Profile updated by Kevin Kristian Pakpahan</small>
+</div>
