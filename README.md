@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
   <h1>Kevin Kristian Pakpahan</h1>
   <p>Computer Engineering Student | Aspiring Web Developer</p>
-</div>
+</div> 
 
 <div align="center">
   <a href="mailto:pakpahank5@gmail.com">
