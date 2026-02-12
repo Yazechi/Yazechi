@@ -11,18 +11,6 @@
 
 ---
 
-## About Me
-
-I'm a software developer focused on building efficient and scalable solutions. I specialize in full-stack development and enjoy working on challenging technical problems.
-
-- Currently working on **[Your Current Project/Company]**
-- Learning **[Technologies/Skills you're developing]**
-- Open to collaboration on **open source projects and innovative solutions**
-- Contact: **[Your Email/Contact]**
-- Location: **[Your Location]**
-
----
-
 ## Technical Skills
 
 ### Languages
