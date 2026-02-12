@@ -73,30 +73,6 @@ I'm a software developer focused on building efficient and scalable solutions. I
 
 ---
 
-## GitHub Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Yazechi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-  
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yazechi/Yazechi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yazechi/Yazechi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yazechi/Yazechi/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
