@@ -120,12 +120,14 @@ I'm a software developer focused on building efficient and scalable solutions. I
 ## Current Focus
 
 
+```javascript
 const currentFocus = {
   learning: ["New Frameworks", "System Design", "Best Practices"],
   building: ["Open Source Projects", "Personal Portfolio"],
   goals: ["Contribute more to open source", "Build amazing products"],
   interests: ["Web Development", "Cloud Computing", "AI/ML"]
 };
+```
 
 ---
 
