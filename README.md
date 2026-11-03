@@ -28,9 +28,9 @@ An interactive space exploration application powered by multiple NASA APIs. Incl
 <table>
   <tr>
     <td width="50%">
-    <img width="1249" height="959" alt="image" src="https://github.com/user-attachments/assets/0f66eb7d-4725-494f-9837-65e1fee13bdb" alt="SpaceView Homepage"/></td>
+    <img width="1249" height="959" src="https://github.com/user-attachments/assets/0f66eb7d-4725-494f-9837-65e1fee13bdb" alt="SpaceView Homepage"/></td>
     <td width="50%">
-    <img width="1182" height="956" alt="image" src="https://github.com/user-attachments/assets/28a98a5a-4b9d-458f-9f63-c5edc41aca4b" alt="SpaceView 3D Solar System"/></td>
+    <img width="1182" height="956" src="https://github.com/user-attachments/assets/28a98a5a-4b9d-458f-9f63-c5edc41aca4b" alt="SpaceView 3D Solar System"/></td>
   </tr>
 </table>
 
@@ -48,9 +48,11 @@ A self-hosted personal media hub for music, books and manga/comics. Features loc
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/archive-pulse-1.png" alt="Archive-Pulse: music player and visualizer"></td>
-    <td width="50%"><img src="assets/archive-pulse-2.png" alt="Archive-Pulse: library and reader"></td>
-  </tr>
+    <td width="50%">
+    <img width="1919" height="953" src="https://github.com/user-attachments/assets/1cb322f8-ef5a-4158-b8ff-f156ca2f4ac0" alt="Archive-Pulse: music player and visualizer"/></td>
+    <td width="50%">
+    <img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/e0e47547-1ad2-4c46-bdfe-7d60c5e3be69" alt="Literature Archive"/>
+  </tr>  
 </table>
 
 ### METREV
