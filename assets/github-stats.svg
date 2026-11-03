@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="GitHub statistics for Yazechi">
+<style>
+  .bg{fill:#ffffff;stroke:#d0d7de}
+  .title{font:600 18px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#0969da}
+  .label{font:400 14px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#57606a}
+  .value{font:600 14px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#1f2328}
+  .track{fill:#eaeef2}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117;stroke:#30363d}
+    .title{fill:#58a6ff}
+    .label{fill:#8b949e}
+    .value{fill:#e6edf3}
+    .track{fill:#21262d}
+  }
+</style>
+<rect class="bg" x="0.5" y="0.5" width="419" height="209" rx="6"/>
+<text class="title" x="24" y="36">Yazechi - GitHub Statistics</text>
+<text class="label" x="24" y="70">Total stars earned</text>
+<text class="value" x="396" y="70" text-anchor="end">3</text>
+<text class="label" x="24" y="98">Total commits (public)</text>
+<text class="value" x="396" y="98" text-anchor="end">107</text>
+<text class="label" x="24" y="126">Public repositories</text>
+<text class="value" x="396" y="126" text-anchor="end">8</text>
+<text class="label" x="24" y="154">Followers</text>
+<text class="value" x="396" y="154" text-anchor="end">4</text>
+<text class="label" x="24" y="182">Total forks</text>
+<text class="value" x="396" y="182" text-anchor="end">4</text>
+</svg>
