@@ -18,7 +18,7 @@
 <text class="label" x="24" y="70">Total stars earned</text>
 <text class="value" x="396" y="70" text-anchor="end">3</text>
 <text class="label" x="24" y="98">Total commits (public)</text>
-<text class="value" x="396" y="98" text-anchor="end">107</text>
+<text class="value" x="396" y="98" text-anchor="end">114</text>
 <text class="label" x="24" y="126">Public repositories</text>
 <text class="value" x="396" y="126" text-anchor="end">8</text>
 <text class="label" x="24" y="154">Followers</text>
